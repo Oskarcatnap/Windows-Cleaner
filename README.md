@@ -1,4 +1,4 @@
-🛠️ Oskar System Control
+🛠️ Windows Cleaner by oskarcatnap
 All-in-one Windows Management Tool
 
 Простая и мощная утилита на Python для тех, кто хочет вернуть контроль над своим ПК.
